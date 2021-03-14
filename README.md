@@ -1,5 +1,8 @@
 # Olá, Bem vindos ao meu Github 👋 :stuck_out_tongue_winking_eye:
 
+### Sobre mim:
+  - Sou estudante de Ciencia da computação com previsão de graduação em meados de 2022. Já atuei em projetos pessoais
+
 <!--
 **gabrielcruvinel/gabrielcruvinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
