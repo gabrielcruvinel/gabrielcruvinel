@@ -13,6 +13,7 @@
   - SQL para extração de dados em Bancos Relacionais
   - Pacotes Pandas e Numpy
   - Python
+  - Sckit-Learn
  
   
 ### Projetos realizados com Ciencia de Dados
