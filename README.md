@@ -1,4 +1,4 @@
-# Olá, Bem vindos ao meu Github 👋 :stuck_out_tongue_winking_eye:
+# Olá, Bem vindo ao meu Github 👋 :stuck_out_tongue_winking_eye:
 
 ### Sobre mim:
   - Atualmente sou graduando de Ciência da Computação
@@ -14,5 +14,3 @@
  ### Contato:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-cruvinel-2104b5177/)](https://www.linkedin.com/in/gabriel-cruvinel-2104b5177/)
-![image]	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
