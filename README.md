@@ -1,6 +1,9 @@
 # Olá, Bem vindo ao meu Github 👋 :stuck_out_tongue_winking_eye:
 
 ### Sobre mim:
+  Me chamo Gabriel e sou graduando de Ciência da Computação. Já atuei como desenvolvedor web, onde trbalhei com as  linguagens PHP e  Javascript na implementação de features em sistema. Atualmente possuo interesse na área de Ciência de Dados, onde busco voltar os meus projetos pessoais para aplicações dentro desse setor.
+Minhas principais ferramentas para os meus projetos são:
+ 
   - Atualmente sou graduando de Ciência da Computação
   - Já atuei com desenvolvimento  web, utilizando as linguagens PHP e Javascript
   - Estudante de Ciencia de Dados
