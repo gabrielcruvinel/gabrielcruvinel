@@ -1,13 +1,19 @@
 # Olá, Bem vindo ao meu Github 👋 :stuck_out_tongue_winking_eye:
 
 ### Sobre mim:
-  Me chamo Gabriel e sou graduando de Ciência da Computação. Já atuei como desenvolvedor web, onde trbalhei com as  linguagens PHP e  Javascript na implementação de features em sistema. Atualmente possuo interesse na área de Ciência de Dados, onde busco voltar os meus projetos pessoais para aplicações dentro desse setor.
-Minhas principais ferramentas para os meus projetos são:
+  Me chamo Gabriel e sou graduando de Ciência da Computação. Já atuei como desenvolvedor web, onde trbalhei com as  linguagens PHP e  Javascript na implementação de features em sistema. Atualmente possuo interesse na área de Ciência de Dados, onde busco voltar os meus projetos pessoais para soluções que envolvam tópicos como:
+  - Machine Learning
+  - Data Visualization
+  - Data Analysis
+  - Web Scrapping
+  
+  
+  
+#### Minhas principais ferramentas são:
+  - SQL para extração de dados em Bancos Relacionais
+  - Pacotes Pandas e Numpy
+  - Python
  
-  - Atualmente sou graduando de Ciência da Computação
-  - Já atuei com desenvolvimento  web, utilizando as linguagens PHP e Javascript
-  - Estudante de Ciencia de Dados
-  - Interesses em Machine Learning, Data Analysis, Data Visualization, Web Scrapping
   
 ### Projetos realizados com Ciencia de Dados
   - [Video Game Data analysis](https://github.com/gabrielcruvinel/data_science/tree/main/video_game_sales) Projeto consiste em analisar o conjunto de dados sobre a venda de jogos e retirar possiveis insights.
