@@ -21,7 +21,7 @@
   
   - [Precificação de imoveis](https://github.com/gabrielcruvinel/data_science/tree/main/precificacao_imovel) O Objetivo desse notebook é criar um modelo de Machine Learning de precificação de imoveis baseado no conjunto de dados disponibilizado pela empresa Keycash em seu Desafio de estágio de Ciencia de Dados de 2021. 
   
-  - [Previsão de vendas](https://github.com/gabrielcruvinel/rossman_store_sales) A rossman é uma empresa de farmacias que possui mais de 3.000 unidades espalhadas em 7 paises europeus. Atualmente, os gerentes da rossman possuem a tarefa de realizar uma previsão de vendas diarias de suas respectivas lojas nas proximas 6 semanas. As vendas das lojas são influenciadas por vários fatores, incluindo promoções, competidores, feriados, temporadas e localização. O objetivo desse repositorio consiste em prever a venda de cada loja em 6 semanas, criando uma solução Data Science End-to-End, indo desde a coleta dos dados até o deploy do modelo de previsão de vendas
+  - [Previsão de vendas](https://github.com/gabrielcruvinel/rossman_store_sales) A rossman é uma empresa de farmacias que possui mais de 3.000 unidades espalhadas em 7 paises europeus. Atualmente, os gerentes da rossman possuem a tarefa de realizar uma previsão de vendas diarias de suas respectivas lojas nas proximas 6 semanas. As vendas das lojas são influenciadas por vários fatores, incluindo promoções, competidores, feriados, temporadas e localização. O objetivo desse repositorio consiste em prever a venda de cada loja em 6 semanas.
   
   
  ### Contato:
