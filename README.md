@@ -1,7 +1,7 @@
-# Olá, Bem vindo ao meu Github 👋 :stuck_out_tongue_winking_eye:
+# Hello, Welcome to my Github 👋 :stuck_out_tongue_winking_eye:
 
-### Sobre mim:
-  Me chamo Gabriel e sou graduando de Ciência da Computação. Já atuei como desenvolvedor web, onde trbalhei com as  linguagens PHP e  Javascript na implementação de features em sistema. Atualmente possuo interesse na área de Ciência de Dados, onde busco voltar os meus projetos pessoais para soluções que envolvam tópicos como:
+### About me :
+  My name is Gabriel and I am graduating in Computer Science. I have worked as a web developer, where I worked with PHP and Javascript in the implementation of system features. I am currently interested in the area of Data Science, where I seek to turn my personal projects towards solutions that involve topics such as:
   - Machine Learning
   - Data Visualization
   - Data Analysis
@@ -9,21 +9,23 @@
   
   
   
-#### Minhas principais ferramentas são:
-  - SQL para extração de dados em Bancos Relacionais
-  - Pacotes Pandas e Numpy
+#### My main tools are:
+  - SQL for data extraction
+  - Pandas and Numpy packages
   - Python
   - Sckit-Learn
+  - Seaborn
+  - Ploty
  
   
-### Projetos realizados com Ciencia de Dados
-  - [Video Game Data analysis](https://github.com/gabrielcruvinel/data_science/tree/main/video_game_sales) Projeto consiste em analisar o conjunto de dados sobre a venda de jogos e retirar possiveis insights.
+### Data Science projects
+  - [Video Game Data analysis](https://github.com/gabrielcruvinel/data_science/tree/main/video_game_sales) This project consists of analyzing the dataset about videogame sales and extracting possible insights.  
   
-  - [Precificação de imoveis](https://github.com/gabrielcruvinel/data_science/tree/main/precificacao_imovel) O Objetivo desse notebook é criar um modelo de Machine Learning de precificação de imoveis baseado no conjunto de dados disponibilizado pela empresa Keycash em seu Desafio de estágio de Ciencia de Dados de 2021. 
+  - [Real estate pricing](https://github.com/gabrielcruvinel/data_science/tree/main/precificacao_imovel) The objective of this notebook is to create a Machine Learning model for real estate pricing based on the dataset made available by the company Keycash in its 2021 Data Science Internship Challenge.
   
-  - [Previsão de vendas](https://github.com/gabrielcruvinel/rossman_store_sales) A rossman é uma empresa de farmacias que possui mais de 3.000 unidades espalhadas em 7 paises europeus. Atualmente, os gerentes da rossman possuem a tarefa de realizar uma previsão de vendas diarias de suas respectivas lojas nas proximas 6 semanas. As vendas das lojas são influenciadas por vários fatores, incluindo promoções, competidores, feriados, temporadas e localização. O objetivo desse repositorio consiste em prever a venda de cada loja em 6 semanas.
+  - [Sells Prediction](https://github.com/gabrielcruvinel/rossman_store_sales) This project consists of creating a model that estimates sales for each store in a drugstore chain within 6 weeks.
   
   
- ### Contato:
+ ### Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-cruvinel-2104b5177/)](https://www.linkedin.com/in/gabriel-cruvinel-2104b5177/)
